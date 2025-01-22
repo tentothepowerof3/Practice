@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-final test
-=======
-test2
->>>>>>> 9f8961dcd4f382f0f1bd3db0ab0f1be85acf963a
